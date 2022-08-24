@@ -41,7 +41,9 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 ----------------------------------------------------------------------------------------------------------------------------------
 
 默认开着 时间是早上七点 手动运行一次确认成功后即可
+
 总是会抽风有延迟 可以参考这篇文章 https://blog.csdn.net/l1937gzjlzy/article/details/117753465
+
 更改时间的步骤
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/a.png)
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/b.png)
