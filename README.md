@@ -33,8 +33,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 
 可以去天行数据申请各种各样的接口用来推送  
-https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste_2022-08-24_12-13-19.png
-https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png
+![image]（https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste_2022-08-24_12-13-19.png）
+![image]（https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png）
 
 
 有别的建议欢迎留言
