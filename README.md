@@ -1,4 +1,3 @@
-# 首先！！把浏览器自动翻译关了！！！！！！！！！！！！！！先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这里先看这
 可以点一下小星星么可以点一下小星星么可以点一下小星星么
 
 有实在解决不了的问题 加vx qycl1013 
@@ -43,11 +42,6 @@ https://id.qweather.com/
 总是会抽风有延迟 可以参考这篇文章 https://blog.csdn.net/l1937gzjlzy/article/details/117753465
 
 更改时间的步骤
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/a.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/b.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/c.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/d.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/e.png)
 --------------------------------------------------------------------------------------------------------------------------------
 天气key生成教程
 ----------------------------------------------------------------------------------------------------------------------------------
