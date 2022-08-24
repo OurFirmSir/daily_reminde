@@ -36,6 +36,9 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 {{note_ch.DATA}}
 
 --------------------------------------------------------------------------------------------------------------------------------
+关于自动运行：
+默认开着 时间是早上七点 手动运行一次确认成功后即可
+总是会抽风有延迟 可以参考这篇文章 https://blog.csdn.net/l1937gzjlzy/article/details/117753465
 
 天气key生成教程
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/%E5%92%8C%E9%A3%8E%E5%A4%A9%E6%B0%94key%E7%94%9F%E6%88%90.png)
@@ -44,6 +47,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 可以去天行数据申请各种各样的接口用来推送  
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste_2022-08-24_12-13-19.png)
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png)
+
 
 
 
